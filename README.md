@@ -1,5 +1,7 @@
 # Shared contracts and libraries — BRACKEN Engineering Guide
 
+> Shared BRACKEN schemas, APIs, compatibility conventions, and narrowly scoped libraries for interoperable platform components.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Core
